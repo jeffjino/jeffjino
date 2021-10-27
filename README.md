@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeff Jino</h1>
 <h3 align="center">An Agile Senior Mobile developer from ShenZhen, China.</h3>
 
-Senior Mobile Developer with more than 10 years of web development experience in building high-performance presentations, reusable components, and performance optimization with Swift, Java, Kotlin, Objective-C and Back End architecture interactions. Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance using SwiftUI, Storyboard, XML and UIKit. Mainly focus on Mobile App Development but also available for Back End Development with PHP, Node and Django. Proficient in Git and familiar with Project Management via JIRA, Trello, Clikup, Asana and communication platforms like Slack.
+Senior Mobile Developer with more than 10 years of web development experience in building high-performance presentations, reusable components, and performance optimization with Swift, Java, Kotlin, Objective-C and Back End architecture interactions. Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance using SwiftUI, Storyboard, XML and UIKit. Mainly focus on Mobile App Development but also available for Back End Development with PHP, Node and Django. Proficient in Git and familiar with Project Management via JIRA, Trello, Clickup, Asana and communication platforms like Slack.
 
 Below I give some tags for the search engine and for those who prefer doing quick scanning.
 
